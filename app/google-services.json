@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1093869860379",
+    "firebase_url": "https://foodcity-e2e3a-default-rtdb.firebaseio.com",
+    "project_id": "foodcity-e2e3a",
+    "storage_bucket": "foodcity-e2e3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093869860379:android:c10708e047f4d6f1726abe",
+        "android_client_info": {
+          "package_name": "lk.java.foodcity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9Z9TKeyFXnruHOsT1D_ZqfWTh3JSh8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
